@@ -51,6 +51,11 @@ My current research interest includes Large Language Models, Recommender Systems
 # 🎖 Honors and Awards
 <!-- - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+- 2022-2023 People's Scholarship @ Nanjing University
+  
+- 2021-2022 People's Scholarship @ Nanjing University
+
+- 2020-2021 People's Scholarship @ Nanjing University
 
 # 📖 Educations
 - *2024.09 - 2026.06 (now)*, M.S. in Computer Science, UC San Diego (La Jolla, California, USA)

@@ -43,7 +43,9 @@ My current research interest includes Large Language Models, Recommender Systems
 </div> -->
 
 - [Towards Effective Bug Reproduction for Mobile Applications](https://ieeexplore.ieee.org/abstract/document/10314157)
+  
   Xin Li#; Shengcheng Yu#; **Lifan Sun**; Yuexiao Liu; Chunrong Fang. 
+  
   DSA 2023 🏅 **Best Paper Award**
 
 # 🎖 Honors and Awards

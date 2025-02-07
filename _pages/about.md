@@ -68,3 +68,4 @@ My current research interest includes Large Language Models, Recommender Systems
 # 💻 Internships
 - *2023.06 - 2023.09*, Software Engineer Intern @ Meituan, China.
 - *2022.09 - 2023.05*, Research Assistant @ Nanjing University, China.
+- *2022.07 - 2022.08*, Software Engineer Intern @ Howmet Aerospace (Suzhou), China.

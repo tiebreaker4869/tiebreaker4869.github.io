@@ -25,6 +25,7 @@ My current research interest includes Large Language Models, Recommender Systems
 
 
 # 🔥 News
+**2025.02:** I am happy to share that I will join AWS as a Software Engineer Intern this summer at Seattle! 
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
@@ -66,6 +67,7 @@ My current research interest includes Large Language Models, Recommender Systems
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
+- *2025.06 - 2025.09*, Software Engineer Intern @ Amazon Web Services, Seattle, USA.
 - *2023.06 - 2023.09*, Software Engineer Intern @ Meituan, China.
 - *2022.09 - 2023.05*, Research Assistant @ Nanjing University, China.
 - *2022.07 - 2022.08*, Software Engineer Intern @ Howmet Aerospace (Suzhou), China.

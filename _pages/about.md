@@ -25,7 +25,8 @@ My current research interest includes Large Language Models, Recommender Systems
 
 
 # 🔥 News
-**2025.02:** I am happy to share that I will join AWS as a Software Engineer Intern this summer at Seattle! 
+**2025.02:** I am happy to share that I will join AWS as a Software Engineer Intern this summer at Seattle!
+
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 

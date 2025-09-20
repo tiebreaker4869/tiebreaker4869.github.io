@@ -43,10 +43,10 @@ My current research interest includes AI Agent and Machine Learning Systems.
   
   DSA 2023 🏅 **Best Paper Award**
 
-# 🎖 Honors and Awards
+<!-- # 🎖 Honors and Awards
 
 - 2022-2023 People's Scholarship @ Nanjing University
   
 - 2021-2022 People's Scholarship @ Nanjing University
 
-- 2020-2021 People's Scholarship @ Nanjing University
+- 2020-2021 People's Scholarship @ Nanjing University -->

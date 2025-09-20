@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a first year master student in UC San Diego. 
+I am currently a second year master student in UC San Diego. 
 
 My current research interest includes Large Language Models, Recommender Systems and Machine Learning Systems. 
 
@@ -25,7 +25,14 @@ My current research interest includes Large Language Models, Recommender Systems
 
 
 # 🔥 News
+**2025.08:** Two papers accepted to CIKM 2025 and EMNLP 2025 Findings!
 **2025.02:** I am happy to share that I will join AWS as a Software Engineer Intern this summer at Seattle!
+
+# 💻 Internships
+- *2025.06 - 2025.09*, Software Engineer Intern @ Amazon Web Services, Seattle, USA.
+- *2023.06 - 2023.09*, Software Engineer Intern @ Meituan, China.
+- *2022.09 - 2023.05*, Research Assistant @ Nanjing University, China.
+- *2022.07 - 2022.08*, Software Engineer Intern @ Howmet Aerospace (Suzhou), China.
 
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
@@ -60,15 +67,9 @@ My current research interest includes Large Language Models, Recommender Systems
 - 2020-2021 People's Scholarship @ Nanjing University
 
 # 📖 Educations
-- *2024.09 - 2026.06 (now)*, M.S. in Computer Science, UC San Diego (La Jolla, California, USA)
+- *2024.09 - 2026.03 (expected)*, M.S. in Computer Science, UC San Diego (La Jolla, California, USA)
 - *2020.09 - 2024.06*, B.Eng. in Software Eng., Nanjing University  (Nanjing, China)
 
-# 💬 Invited Talks
+<!-- # 💬 Invited Talks -->
 <!-- - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
-
-# 💻 Internships
-- *2025.06 - 2025.09*, Software Engineer Intern @ Amazon Web Services, Seattle, USA.
-- *2023.06 - 2023.09*, Software Engineer Intern @ Meituan, China.
-- *2022.09 - 2023.05*, Research Assistant @ Nanjing University, China.
-- *2022.07 - 2022.08*, Software Engineer Intern @ Howmet Aerospace (Suzhou), China.

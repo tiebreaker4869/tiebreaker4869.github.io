@@ -35,13 +35,29 @@ My current research interest includes AI Agent and Machine Learning Systems.
 
 # 📝 Publications 
 
+
+**Information Retrieval**
+
+- SOLAR: Serendipity Optimized Language Model Aligned for Recommendation
+  
+  Zichen Yuan#; **Lifan Sun#** et al.
+
+  **EMNLP 2025 Findings**
+
+- AMBER: Adaptive Meta Balanced Paradigm for Heterogeneous Graph-Based Knowledge Tracing
+  
+  **Lifan Sun#**; Zichen Yuan# et al.
+
+  **CIKM 2025**
+
+
 **Software Engineering**
 
 - [Towards Effective Bug Reproduction for Mobile Applications](https://ieeexplore.ieee.org/abstract/document/10314157)
   
   Xin Li#; Shengcheng Yu#; **Lifan Sun**; Yuexiao Liu; Chunrong Fang. 
   
-  DSA 2023 🏅 **Best Paper Award**
+  **DSA 2023 🏅 Best Paper Award**
 
 <!-- # 🎖 Honors and Awards
 

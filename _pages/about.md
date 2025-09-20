@@ -17,6 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# 🤔 About
+
 I am currently a second year master student in UC San Diego. 
 
 My current research interest includes AI Agent and Machine Learning Systems. 
@@ -31,7 +33,9 @@ My current research interest includes AI Agent and Machine Learning Systems.
 - *2022.09 - 2023.05*, Research Assistant (Automated Software Engineering) @ Nanjing University, China.
 - *2022.07 - 2022.08*, Software Engineer Intern (Web Dev.) @ Howmet Aerospace (Suzhou), China.
 
-# 📝 Selected Publications 
+# 📝 Publications 
+
+**Software Engineering**
 
 - [Towards Effective Bug Reproduction for Mobile Applications](https://ieeexplore.ieee.org/abstract/document/10314157)
   

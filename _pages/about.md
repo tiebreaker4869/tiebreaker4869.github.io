@@ -26,6 +26,7 @@ My current research interest includes Large Language Models, Recommender Systems
 
 # 🔥 News
 **2025.08:** Two papers accepted to CIKM 2025 and EMNLP 2025 Findings!
+
 **2025.02:** I am happy to share that I will join AWS as a Software Engineer Intern this summer at Seattle!
 
 # 💻 Internships

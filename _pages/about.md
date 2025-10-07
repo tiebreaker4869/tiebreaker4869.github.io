@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 🤔 About
+# 🤔 About Me
 
 I am currently a second year master student in UC San Diego. 
 
@@ -27,7 +27,7 @@ My current research interest includes AI Agent and Machine Learning Systems.
 - *2024.09 - 2026.03 (expected)*, M.S. in Computer Science, UC San Diego (La Jolla, California, USA)
 - *2020.09 - 2024.06*, B.Eng. in Software Eng., Nanjing University  (Nanjing, China)
 
-# 💻 Internships
+# 💻 Experiences
 - *2025.06 - 2025.09*, Software Engineer Intern (Agentic AI) @ Amazon Web Services, Seattle, USA.
 - *2023.06 - 2023.09*, Software Engineer Intern (Search Infra) @ Meituan, China.
 - *2022.09 - 2023.05*, Research Assistant (Automated Software Engineering) @ Nanjing University, China.
@@ -59,10 +59,10 @@ My current research interest includes AI Agent and Machine Learning Systems.
   
   **DSA 2023 🏅 Best Paper Award**
 
-<!-- # 🎖 Honors and Awards
+# 🎖 Honors and Awards
 
 - 2022-2023 People's Scholarship @ Nanjing University
-  
+
 - 2021-2022 People's Scholarship @ Nanjing University
 
-- 2020-2021 People's Scholarship @ Nanjing University -->
+- 2020-2021 People's Scholarship @ Nanjing University

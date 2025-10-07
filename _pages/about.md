@@ -23,7 +23,7 @@ I am currently a second year master student in UC San Diego.
 
 My current research interest includes AI Agent and Machine Learning Systems. 
 
-<span class='anchor' id='education'></span>
+<span class='anchor' id='educations'></span>
 
 # 📖 Educations
 - *2024.09 - 2026.03 (expected)*, M.S. in Computer Science, UC San Diego (La Jolla, California, USA)

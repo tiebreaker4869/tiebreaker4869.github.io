@@ -23,9 +23,13 @@ I am currently a second year master student in UC San Diego.
 
 My current research interest includes AI Agent and Machine Learning Systems. 
 
+<span class='anchor' id='education'></span>
+
 # 📖 Educations
 - *2024.09 - 2026.03 (expected)*, M.S. in Computer Science, UC San Diego (La Jolla, California, USA)
 - *2020.09 - 2024.06*, B.Eng. in Software Eng., Nanjing University  (Nanjing, China)
+
+<span class='anchor' id='experiences'></span>
 
 # 💻 Experiences
 - *2025.06 - 2025.09*, Software Engineer Intern (Agentic AI) @ Amazon Web Services, Seattle, USA.
@@ -33,18 +37,19 @@ My current research interest includes AI Agent and Machine Learning Systems.
 - *2022.09 - 2023.05*, Research Assistant (Automated Software Engineering) @ Nanjing University, China.
 - *2022.07 - 2022.08*, Software Engineer Intern (Web Dev.) @ Howmet Aerospace (Suzhou), China.
 
-# 📝 Publications 
+<span class='anchor' id='publications'></span>
 
+# 📝 Publications 
 
 **Information Retrieval**
 
-- SOLAR: Serendipity Optimized Language Model Aligned for Recommendation
+- *SOLAR: Serendipity Optimized Language Model Aligned for Recommendation*
   
   Zichen Yuan#; **Lifan Sun#** et al.
 
   **EMNLP 2025 Findings**
 
-- AMBER: Adaptive Meta Balanced Paradigm for Heterogeneous Graph-Based Knowledge Tracing
+- *AMBER: Adaptive Meta Balanced Paradigm for Heterogeneous Graph-Based Knowledge Tracing*
   
   **Lifan Sun#**; Zichen Yuan# et al.
 
@@ -53,11 +58,13 @@ My current research interest includes AI Agent and Machine Learning Systems.
 
 **Software Engineering**
 
-- [Towards Effective Bug Reproduction for Mobile Applications](https://ieeexplore.ieee.org/abstract/document/10314157)
+- [*Towards Effective Bug Reproduction for Mobile Applications*](https://ieeexplore.ieee.org/abstract/document/10314157)
   
   Xin Li#; Shengcheng Yu#; **Lifan Sun**; Yuexiao Liu; Chunrong Fang. 
   
   **DSA 2023 🏅 Best Paper Award**
+
+<span class='anchor' id='honors-and-awards'></span>
 
 # 🎖 Honors and Awards
 

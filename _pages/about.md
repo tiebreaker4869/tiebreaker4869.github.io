@@ -32,9 +32,10 @@ My current research interest includes AI Agent and Machine Learning Systems.
 <span class='anchor' id='experiences'></span>
 
 # 💻 Experiences
+- *2025.10 - Present*, Research Intern (MLSys) @ UCSD WukLab, La Jolla, USA
 - *2025.06 - 2025.09*, Software Engineer Intern (Agentic AI) @ Amazon Web Services, Seattle, USA.
 - *2023.06 - 2023.09*, Software Engineer Intern (Search Infra) @ Meituan, China.
-- *2022.09 - 2023.05*, Research Assistant (Automated Software Engineering) @ Nanjing University, China.
+- *2022.09 - 2023.05*, Research Intern (Automated Software Engineering) @ Nanjing University, China.
 - *2022.07 - 2022.08*, Software Engineer Intern (Web Dev.) @ Howmet Aerospace (Suzhou), China.
 
 <span class='anchor' id='publications'></span>
@@ -45,13 +46,13 @@ My current research interest includes AI Agent and Machine Learning Systems.
 
 - *SOLAR: Serendipity Optimized Language Model Aligned for Recommendation*
   
-  Zichen Yuan#; **Lifan Sun#** et al.
+  Zichen Yuan<sup>*</sup>; **Lifan Sun<sup>\*</sup>** et al.
 
   **EMNLP 2025 Findings**
 
 - *AMBER: Adaptive Meta Balanced Paradigm for Heterogeneous Graph-Based Knowledge Tracing*
   
-  **Lifan Sun#**; Zichen Yuan# et al.
+  **Lifan Sun<sup>*</sup>**; Zichen Yuan<sup>*</sup> et al.
 
   **CIKM 2025**
 
@@ -60,7 +61,7 @@ My current research interest includes AI Agent and Machine Learning Systems.
 
 - [*Towards Effective Bug Reproduction for Mobile Applications*](https://ieeexplore.ieee.org/abstract/document/10314157)
   
-  Xin Li#; Shengcheng Yu#; **Lifan Sun**; Yuexiao Liu; Chunrong Fang. 
+  Xin Li<sup>\*</sup>; Shengcheng Yu<sup>\*</sup>; **Lifan Sun**; Yuexiao Liu; Chunrong Fang. 
   
   **DSA 2023 🏅 Best Paper Award**
 

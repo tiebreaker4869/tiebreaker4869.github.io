@@ -50,7 +50,7 @@ My current research interest includes AI Agent and Machine Learning Systems.
 
   **EMNLP 2025 Findings**
 
-- *AMBER: Adaptive Meta Balanced Paradigm for Heterogeneous Graph-Based Knowledge Tracing*
+- [*AMBER: Adaptive Meta Balanced Paradigm for Heterogeneous Graph-Based Knowledge Tracing*](https://dl.acm.org/doi/10.1145/3746252.3761202)
   
   **Lifan Sun<sup>*</sup>**; Zichen Yuan<sup>*</sup> et al.
 

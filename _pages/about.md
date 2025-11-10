@@ -44,7 +44,7 @@ My current research interest includes AI Agent and Machine Learning Systems.
 
 **Information Retrieval**
 
-- *SOLAR: Serendipity Optimized Language Model Aligned for Recommendation*
+- [*SOLAR: Serendipity Optimized Language Model Aligned for Recommendation*](https://aclanthology.org/2025.findings-emnlp.538/)
   
   Zichen Yuan<sup>*</sup>; **Lifan Sun<sup>\*</sup>** et al.
 

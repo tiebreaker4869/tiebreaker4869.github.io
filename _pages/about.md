@@ -67,7 +67,7 @@ My current research interest includes AI Agent and Machine Learning Systems.
 
 <span class='anchor' id='services'></span>
 
-# 🤔 Services
+# 🧑‍💼 Services
 
 - **Reviewer:** TKDD
 

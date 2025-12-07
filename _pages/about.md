@@ -19,9 +19,9 @@ redirect_from:
 
 # 🤔 About Me
 
-I am currently a second year master student in UC San Diego. 
+I am currently a second year master student in computer sciecne at UC San Diego.
 
-My current research interest includes AI Agent and Machine Learning Systems. 
+My current research interest includes Agentic AI and Efficient LLM Serving. 
 
 <span class='anchor' id='educations'></span>
 
@@ -40,9 +40,7 @@ My current research interest includes AI Agent and Machine Learning Systems.
 
 <span class='anchor' id='publications'></span>
 
-# 📝 Publications 
-
-**Information Retrieval**
+# 📝 Selected Publications 
 
 - [*SOLAR: Serendipity Optimized Language Model Aligned for Recommendation*](https://aclanthology.org/2025.findings-emnlp.538/)
   
@@ -55,9 +53,6 @@ My current research interest includes AI Agent and Machine Learning Systems.
   **Lifan Sun<sup>*</sup>**; Zichen Yuan<sup>*</sup> et al.
 
   **CIKM 2025**
-
-
-**Software Engineering**
 
 - [*Towards Effective Bug Reproduction for Mobile Applications*](https://ieeexplore.ieee.org/abstract/document/10314157)
   

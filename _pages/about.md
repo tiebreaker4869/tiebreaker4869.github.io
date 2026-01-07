@@ -19,20 +19,20 @@ redirect_from:
 
 # 🤔 About Me
 
-I am currently a second year master student in computer sciecne at UC San Diego.
+I'm currently a second year master student in the Department of Computer Sciecne \& Engineering at UC San Diego.
 
-My current research interest includes Agentic AI and Efficient LLM Serving. 
+I'm interested in both algorithmic and system perspective of AI systems, particularly on Agentic AI and LLM serving systems.
 
 <span class='anchor' id='educations'></span>
 
 # 📖 Educations
-- *2024.09 - 2026.03 (expected)*, M.S. in Computer Science, UC San Diego (La Jolla, California, USA)
+- *2024.09 - 2026.03*, M.S. in Computer Science, UC San Diego (La Jolla, California, USA)
 - *2020.09 - 2024.06*, B.Eng. in Software Eng., Nanjing University  (Nanjing, China)
 
 <span class='anchor' id='experiences'></span>
 
 # 💻 Experiences
-- *2025.10 - Present*, Research Intern (MLSys) @ UCSD WukLab, La Jolla, USA
+- *2025.10 - 2025.12*, Research Intern (RAG Systems) @ UCSD WukLab, La Jolla, USA
 - *2025.06 - 2025.09*, Software Engineer Intern (Agentic AI) @ Amazon Web Services, Seattle, USA.
 - *2023.06 - 2023.09*, Software Engineer Intern (Search Infra) @ Meituan, China.
 - *2022.09 - 2023.05*, Research Intern (Automated Software Engineering) @ Nanjing University, China.

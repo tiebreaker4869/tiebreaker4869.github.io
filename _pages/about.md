@@ -23,6 +23,8 @@ I'm currently a second year master student in the Department of Computer Sciecne
 
 My current interest includes both algorithmic and system perspectives of AI systems, particularly on Agentic AI and LLM serving systems.
 
+Previously, I've also worked on Recommender Systems and Software Engineering.
+
 <span class='anchor' id='educations'></span>
 
 # 📖 Educations

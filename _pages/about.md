@@ -44,8 +44,7 @@ Previously, I've also worked on Recommender Systems and Software Engineering.
 
 # 📝 Selected Publications 
 
-<sup>†</sup> These authors contributed equally.  
-<sup>\*</sup> Corresponding author.
+<sup>†</sup> These authors contributed equally. <sup>\*</sup> Corresponding author.
 
 - [*Difficulty-Aware Agentic Orchestration for Query-Specific Multi-Agent Workflows*](https://arxiv.org/pdf/2509.11079)
   

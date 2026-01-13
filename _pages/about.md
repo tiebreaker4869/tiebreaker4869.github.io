@@ -46,25 +46,25 @@ Previously, I've also worked on Recommender Systems and Software Engineering.
 
 - [*Difficulty-Aware Agentic Orchestration for Query-Specific Multi-Agent Workflows*](https://arxiv.org/pdf/2509.11079)
   
-  Jinwei Su, Qizhen Lan, Yinghui Xia, *Lifan Sun* et al.
+  Jinwei Su, Qizhen Lan, Yinghui Xia, *Lifan Sun*, Weiyou Tian et al.
 
   **WWW 2026**
 
 - [*SOLAR: Serendipity Optimized Language Model Aligned for Recommendation*](https://aclanthology.org/2025.findings-emnlp.538/)
   
-  Zichen Yuan<sup>*</sup>; **Lifan Sun<sup>\*</sup>** et al.
+  Zichen Yuan<sup>†</sup>, **Lifan Sun<sup>†</sup>**, Yucen Zhuang, Yue Wang, Xinyuan Song, Youhua Li<sup>\*</sup>, Yongxin Ni<sup>\*</sup> et al.
 
   **EMNLP 2025 Findings**
 
 - [*AMBER: Adaptive Meta Balanced Paradigm for Heterogeneous Graph-Based Knowledge Tracing*](https://dl.acm.org/doi/10.1145/3746252.3761202)
   
-  **Lifan Sun<sup>*</sup>**; Zichen Yuan<sup>*</sup> et al.
+  **Lifan Sun<sup>†</sup>**, Zichen Yuan<sup>†</sup>, Ersheng Ni, Weihua Cheng, Xinyuan Song, Youhua Li<sup>\*</sup> et al.
 
   **CIKM 2025**
 
 - [*Towards Effective Bug Reproduction for Mobile Applications*](https://ieeexplore.ieee.org/abstract/document/10314157)
   
-  Xin Li<sup>\*</sup>; Shengcheng Yu<sup>\*</sup>; **Lifan Sun**; Yuexiao Liu; Chunrong Fang. 
+  Xin Li<sup>†</sup>, Shengcheng Yu<sup>†</sup>, **Lifan Sun**, Yuexiao Liu, Chunrong Fang<sup>\*</sup>. 
   
   **DSA 2023 🏅 Best Paper Award**
 

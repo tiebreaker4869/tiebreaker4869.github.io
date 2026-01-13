@@ -44,6 +44,9 @@ Previously, I've also worked on Recommender Systems and Software Engineering.
 
 # 📝 Selected Publications 
 
+<sup>†</sup> These authors contributed equally.  
+<sup>\*</sup> Corresponding author.
+
 - [*Difficulty-Aware Agentic Orchestration for Query-Specific Multi-Agent Workflows*](https://arxiv.org/pdf/2509.11079)
   
   Jinwei Su, Qizhen Lan, Yinghui Xia, *Lifan Sun*, Weiyou Tian et al.

@@ -44,6 +44,12 @@ Previously, I've also worked on Recommender Systems and Software Engineering.
 
 # 📝 Selected Publications 
 
+- [*Difficulty-Aware Agentic Orchestration for Query-Specific Multi-Agent Workflows*](https://arxiv.org/pdf/2509.11079)
+  
+  Jinwei Su, Qizhen Lan, Yinghui Xia, *Lifan Sun* et al.
+
+  **WWW 2026**
+
 - [*SOLAR: Serendipity Optimized Language Model Aligned for Recommendation*](https://aclanthology.org/2025.findings-emnlp.538/)
   
   Zichen Yuan<sup>*</sup>; **Lifan Sun<sup>\*</sup>** et al.

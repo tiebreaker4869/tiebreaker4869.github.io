@@ -31,16 +31,22 @@ Previously, I've also worked on Recommender Systems and Software Engineering.
 - *2024.09 - 2026.03*, M.S. in Computer Science, UC San Diego (La Jolla, California, USA)
 - *2020.09 - 2024.06*, B.Eng. in Software Eng., Nanjing University  (Nanjing, China)
 
-<span class='anchor' id='experiences'></span>
+<span class='anchor' id='industry-experiences'></span>
 
-# 💻 Experiences
-- *2025.10 - 2025.12*, Research Intern (RAG Systems) @ UCSD WukLab, La Jolla, USA
+# 💻 Industry Experiences
 - *2025.06 - 2025.09*, Software Engineer Intern (Agentic AI) @ Amazon Web Services, Seattle, USA.
 - *2023.06 - 2023.09*, Software Engineer Intern (Search Infra) @ Meituan, China.
-- *2022.09 - 2023.05*, Research Intern (Automated Software Engineering) @ Nanjing University, China.
 - *2022.07 - 2022.08*, Software Engineer Intern (Web Dev.) @ Howmet Aerospace (Suzhou), China.
 
+<span class='anchor' id='research-experiences'></span>
+
+# 🧑‍🎓 Research Experiences
+- *2025.10 - 2025.12*, Research Intern (RAG Systems) @ UCSD WukLab, La Jolla, USA
+- *2024.07 - 2025.6*, Independent Researcher (Recommender Systems) @ UCSD, La Jolla, USA
+- *2022.09 - 2023.05*, Research Intern (Automated Software Engineering) @ Nanjing University, China.
+
 <span class='anchor' id='publications'></span>
+
 
 # 📝 Selected Publications 
 
@@ -81,8 +87,5 @@ Previously, I've also worked on Recommender Systems and Software Engineering.
 
 # 🎖 Honors and Awards
 
-- 2022-2023 People's Scholarship @ Nanjing University
-
-- 2021-2022 People's Scholarship @ Nanjing University
-
-- 2020-2021 People's Scholarship @ Nanjing University
+- People's Scholarship of Nanjing University, 2021, 2022, 2023
+- Best Paper Award at International Conference on Dependable Systems and Their Applications, 2023

@@ -6,8 +6,11 @@ main:
   - title: "Educations"
     url: "/#educations"
 
-  - title: "Experiences"
-    url: "/#experiences"
+  - title: "Industry Experiences"
+    url: "/#industry-experiences"
+
+  - title: "Research Experiences"
+    url: "/#research-experiences"
 
   - title: "Publications"
     url: "/#publications"

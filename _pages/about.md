@@ -42,7 +42,7 @@ Previously, I've also worked on Recommender Systems and Software Engineering.
 
 # 🧑‍🎓 Research Experiences
 - *2025.10 - 2025.12*, Research Intern (RAG Systems) @ UCSD WukLab, La Jolla, USA
-- *2024.07 - 2025.6*, Independent Researcher (Recommender Systems) @ UCSD, La Jolla, USA
+- *2024.07 - 2025.06*, Independent Researcher (Recommender Systems) @ UCSD, La Jolla, USA
 - *2022.09 - 2023.05*, Research Intern (Automated Software Engineering) @ Nanjing University, China.
 
 <span class='anchor' id='publications'></span>

@@ -23,7 +23,7 @@ I'm currently a second year master student in the Department of Computer Sciecne
 
 My current interest centers around how to build self-evolving agents that are capable of handling complex, long-running tasks, and how to build the infrastructure to efficiently serve them.
 
-Previously, I've also worked on Recommender Systems and Software Engineering.
+Previously, I've also worked on Recommender Systems and Automated Software Engineering.
 
 <span class='anchor' id='educations'></span>
 
@@ -89,3 +89,7 @@ Previously, I've also worked on Recommender Systems and Software Engineering.
 
 - People's Scholarship of Nanjing University, 2021, 2022, 2023
 - Best Paper Award at International Conference on Dependable Systems and Their Applications, 2023
+
+# 🎮 Misc
+
+In my free time, I enjoy anime, J-pop music, video games, and wandering around the city.

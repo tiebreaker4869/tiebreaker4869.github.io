@@ -90,6 +90,8 @@ Previously, I've also worked on Recommender Systems and Automated Software Engin
 - People's Scholarship of Nanjing University, 2021, 2022, 2023
 - Best Paper Award at International Conference on Dependable Systems and Their Applications, 2023
 
+<span class='anchor' id='misc'></span>
+
 # 🎮 Misc
 
 In my free time, I enjoy anime, J-pop music, video games, and wandering around the city.

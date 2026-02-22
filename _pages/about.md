@@ -21,7 +21,7 @@ redirect_from:
 
 I'm currently a second year master student in the Department of Computer Sciecne & Engineering at UC San Diego.
 
-My current interest includes both algorithmic and system perspectives of AI systems, particularly on Agentic AI and LLM serving systems.
+My current interest centers around how to build self-evolving agents that are capable of handling complex, long-running tasks, and how to build the infrastructure to efficiently serve them.
 
 Previously, I've also worked on Recommender Systems and Software Engineering.
 

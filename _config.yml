@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Lifan Sun"
   avatar           : "images/android-chrome-192x192.png"
-  bio              : "UC San Diego"
-  location         : "La Jolla, CA, USA"
+  bio              : "Amazon Web Services"
+  location         : "Bellevue, WA, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=39z_8msAAAAJ"
@@ -136,7 +136,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

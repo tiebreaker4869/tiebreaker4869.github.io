@@ -19,9 +19,7 @@ redirect_from:
 
 # 🤔 About Me
 
-I'm currently a second year master student in the Department of Computer Sciecne & Engineering at UC San Diego.
-
-My current interest centers around how to build self-evolving agents that are capable of handling complex, long-running tasks, and how to build the infrastructure to efficiently serve them.
+I'm currently a software engineer at AWS Amazon Quick, working on agentic systems. My current interests center around agentic systems, and infrastructure for LLM inference / RL.
 
 Previously, I've also worked on Recommender Systems and Automated Software Engineering.
 
@@ -34,6 +32,7 @@ Previously, I've also worked on Recommender Systems and Automated Software Engin
 <span class='anchor' id='industry-experiences'></span>
 
 # 💻 Industry Experiences
+- *2026.04 - Present*, Software Engineer (Agentic AI) @ Amazon Web Services, Seattle, USA.
 - *2025.06 - 2025.09*, Software Engineer Intern (Agentic AI) @ Amazon Web Services, Seattle, USA.
 - *2023.06 - 2023.09*, Software Engineer Intern (Search Infra) @ Meituan, China.
 - *2022.07 - 2022.08*, Software Engineer Intern (Web Dev.) @ Howmet Aerospace (Suzhou), China.

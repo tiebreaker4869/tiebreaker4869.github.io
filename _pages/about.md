@@ -19,7 +19,7 @@ redirect_from:
 
 # 🤔 About Me
 
-I'm currently a software engineer at AWS Amazon Quick, working on agentic systems. My current interests center around agentic systems, and infrastructure for LLM inference / RL.
+I'm currently a software engineer at AWS Quick AI, working on agentic systems. My current interests center around agentic systems, and infrastructure for LLM inference / RL.
 
 Previously, I've also worked on Recommender Systems and Automated Software Engineering.
 
